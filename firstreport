@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Nepal and Neighbours</title>
+    </head>
+    <body bgcolor="orangered">
+        <div>
+            <h1 align="center"><u>Nepal and Neighbouring countries.</u></h1>
+            <br/>
+            <ol>
+                <li><b>Nepalese Flag</b></li>
+                <br/>
+                <a href="https://en.wikipedia.org/wiki/Nepal" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Nepal.png/492px-Flag_of_Nepal.png?20220205232231" width="500" /></a>
+                <hr/>
+                <li><b>Indian Flag</b></li>
+                <br/>
+                <a href="https://en.wikipedia.org/wiki/India" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1280px-Flag_of_India.svg.png" width="500" /></a>
+                <hr/>
+                <li><b>Chinese Flag</b></li>
+                <br/>
+                <a href="https://en.wikipedia.org/wiki/China" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="500" /></a>
+                <hr/>
+            </ol>
+            <br/>
+            <br/>
+            <h4><p align="center">&copy; 2022 Ujjwal Dhakal</p></h4>
+        </div> 
+    </body>
+</html>
